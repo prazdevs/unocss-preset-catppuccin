@@ -1,10 +1,17 @@
 {
   "name": "unocss-preset-catppuccin",
   "version": "0.1.0",
-  "description": "",
+  "description": "Soothing pastel theme for UnoCSS",
   "author": "prazdevs",
   "license": "MIT",
-  "keywords": [],
+  "keywords": [
+    "catppuccin",
+    "theme",
+    "fancy",
+    "pastel-colors",
+    "unocss",
+    "preset"
+  ],
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
